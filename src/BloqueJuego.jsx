@@ -39,7 +39,7 @@ export default function BloqueJuego(){
                 setNumPregunta(numPregunta + 1);
                 setEstadoJuego("iniciar");
             }
-        } //
+        } 
         
     }, [estadoJuego]); // Se ejecuta solo al montar al cambiar el estado de estadoJuego
 
