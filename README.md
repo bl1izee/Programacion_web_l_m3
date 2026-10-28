@@ -24,5 +24,5 @@ revisar posibles mejoras. Las propuestas se revisan y prueban antes de
 incorporarlas al proyecto.
 
 ## Autopsia
-1. Tube que desglosar la página en componentes, tenienendo dificultades
+1. Tuve que desglosar la página en componentes usando paint, tenienendo dificultades
 a la hora de desglosar algunos como la api, y como se conectará con el juego
