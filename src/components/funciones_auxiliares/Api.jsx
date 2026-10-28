@@ -1,4 +1,4 @@
-export default async function newQuestion(){
+export default async function Api(){
     const respuesta = await fetch("https://opentdb.com/api.php?amount=5&type=boolean");
 
     if (!respuesta.ok) {
